@@ -44,7 +44,13 @@ namespace PushSDK
         /// <summary>
         /// Get user data from the last push came
         /// </summary>
-        public string UserData { get{return LastPush != null ? LastPush.UserData : string.Empty;}}
+        public string UserData { 
+        	get{
+        		if( LastPush != null ) return LastPush.UserData;
+        		if( StartPush != null ) return StartPush.UserData;
+        		return string.Empty;
+        		}
+        	}
 
         /// <summary>
         /// Get push token
