@@ -1,0 +1,9 @@
+E:\git\pushwoosh_kippo\PushSDK\Bin\Release\PushSDK.dll
+E:\git\pushwoosh_kippo\PushSDK\Bin\Release\PushSDK.pdb
+E:\git\pushwoosh_kippo\PushSDK\Bin\Release\Newtonsoft.Json.dll
+E:\git\pushwoosh_kippo\PushSDK\Bin\Release\Newtonsoft.Json.xml
+E:\git\pushwoosh_kippo\PushSDK\obj\Release\Controls\PushPage.g.cs
+E:\git\pushwoosh_kippo\PushSDK\obj\Release\PushSDK.g.resources
+E:\git\pushwoosh_kippo\PushSDK\obj\Release\PushSDK.dll
+E:\git\pushwoosh_kippo\PushSDK\obj\Release\PushSDK.pdb
+E:\git\pushwoosh_kippo\PushSDK\obj\Release\PushSDK.WP8.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\git\pushwoosh_kippo\PushSDK\Bin\Debug\PushSDK.dll
+E:\git\pushwoosh_kippo\PushSDK\Bin\Debug\PushSDK.pdb
+E:\git\pushwoosh_kippo\PushSDK\Bin\Debug\Newtonsoft.Json.dll
+E:\git\pushwoosh_kippo\PushSDK\Bin\Debug\Newtonsoft.Json.xml
+E:\git\pushwoosh_kippo\PushSDK\obj\Debug\Controls\PushPage.g.cs
+E:\git\pushwoosh_kippo\PushSDK\obj\Debug\PushSDK.g.resources
+E:\git\pushwoosh_kippo\PushSDK\obj\Debug\PushSDK.dll
+E:\git\pushwoosh_kippo\PushSDK\obj\Debug\PushSDK.pdb
