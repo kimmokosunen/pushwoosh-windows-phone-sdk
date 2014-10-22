@@ -31,7 +31,8 @@ namespace PushSDK.Classes
                 Content = pushParams.ContainsKey("content") ? pushParams["content"] : string.Empty,
                 Hash = pushParams.ContainsKey("p") ? pushParams["p"] : string.Empty,
                 HtmlId = pushParams.ContainsKey("h") ? Convert.ToInt32(pushParams["h"]) : -1,
-                UserData = pushParams.ContainsKey("u") ? pushParams["u"] : string.Empty
+                UserData = pushParams.ContainsKey("u") ? pushParams["u"] : string.Empty,
+                IsStartPush = false
             };
 
             try

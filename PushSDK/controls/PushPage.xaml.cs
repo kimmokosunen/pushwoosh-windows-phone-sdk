@@ -24,6 +24,7 @@ namespace PushSDK.Controls
             }
             else
             {
+                push.IsStartPush = true;
                 NotificationService.StartPush = push;
             }
 

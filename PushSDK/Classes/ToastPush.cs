@@ -23,5 +23,8 @@ namespace PushSDK.Classes
 
         [JsonProperty("onStart")]
         public bool OnStart { get; set; }
+
+        [JsonProperty("isStartPush")]
+        public bool IsStartPush { get; set; }
     }
 }
